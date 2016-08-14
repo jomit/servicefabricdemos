@@ -1,2 +1,2 @@
-# servicefabricdemos
-Code and Scripts for Service Fabric Demos
+# Service Fabric Demo
+Demo code for Guest Executables, Stateless and Stateful Services
