@@ -13,7 +13,7 @@
   <ConfigPackage Name="Config" Version="1.0.0" />
   <Resources>
     <Endpoints>
-      <Endpoint Name="ServiceEndpoint" Type="Input" Protocol="http" />
+      <Endpoint Name="ServiceEndpoint" Type="Input" Protocol="http" Port="8082" />
       <Endpoint Name="ReplicatorEndpoint" />
     </Endpoints>
   </Resources>
